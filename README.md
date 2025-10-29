@@ -2,7 +2,7 @@
 <br>
  
 
-I'm [Bunchhean Chhong](https://github.com/Bunchhean777), a second-year Information Technology student at the Royal University of Phnom Penh (RUPP), focusing intently on Java Development.My core skills include Core Java, OOP, SQL, and Git/GitHub. I am actively seeking internships and collaborations to build robust, scalable Java applications. You can find me on [Github](https://github.com/Bunchhean777) or [Facebook](https://github.com/Bunchhean777).<br><br><br>
+I'm [Bunchhean Chhong](https://github.com/Bunchhean777), a second-year Information Technology student at the Royal University of Phnom Penh (RUPP), focusing intently on Java Development.My core skills include Core Java, OOP, SQL, and Git/GitHub. I am actively seeking internships and collaborations to build robust, scalable Java applications. You can find me on [Github](https://github.com/Bunchhean777) or [Facebook](https://github.com/Bunchhean777).<br><br>
 
 **Languages & Tools:**
 <br><br>
